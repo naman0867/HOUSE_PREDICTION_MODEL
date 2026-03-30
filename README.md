@@ -50,8 +50,8 @@ The dataset used is the **California Housing Dataset**, which includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/naman0867/HOUSE_PREDICTION_MODEL.git
+cd HOUSE_PREDICTION_MODEL
 ```
 
 Install dependencies:
